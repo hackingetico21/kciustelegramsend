@@ -3,7 +3,7 @@ Script en javascript para enviar mensajes automatizados en telegram, Diseñado p
 
 Como usar 🖥️
 
-    Abra el archivo enviartelegram.js
+    Abra el archivo enviotelegram.js
     Click en "Raw"
     Seleccione todo el código con "CTRL + A"
     Copie todo el contenido con "CTRL + C"
